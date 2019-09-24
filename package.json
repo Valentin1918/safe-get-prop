@@ -1,0 +1,15 @@
+{
+  "name": "safe-get-prop",
+  "version": "1.0.0",
+  "description": "Safe get property function",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valentin1918/safe-get-prop"
+  },
+  "keywords": [
+    "safe", "get", "prop", "property"
+  ],
+  "author": "grekulov.valentyn@gmail.com",
+  "homepage": "https://github.com/Valentin1918/safe-get-prop#readme"
+}
