@@ -11,5 +11,6 @@
     "safe", "get", "prop", "property"
   ],
   "author": "grekulov.valentyn@gmail.com",
+  "license": "MIT",
   "homepage": "https://github.com/Valentin1918/safe-get-prop#readme"
 }
