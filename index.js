@@ -10,7 +10,7 @@ function safeGetProp(obj, props, ensure) {
   var i = 0;
   var o = Object.assign({}, obj);
   for (i; i < propsArr.length; i++) {
-    if (!o[propsArr[i]]) return ensure;
+    if (typeof o[propsArr[i]] === 'undefined') return ensure;
     o = o[propsArr[i]];
   }
   return o;

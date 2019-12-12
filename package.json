@@ -1,6 +1,6 @@
 {
   "name": "safe-get-prop",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Safe get property function",
   "main": "index.js",
   "repository": {
